@@ -10,4 +10,13 @@
 * Primeiros passos com BI
 * Análse de dados de um dashboard de vendas
 
-2 - Desafio de Projeto - Criando um Relatório Gerencial de Vendas com PowerBI
+2 - Desafio de Projeto - Criando um Relatório Gerencial de Vendas com PowerBI.
+
+    Nessa etapa avançamos mais afundos em alguns temas teóricos e com um pouco mas de prática. 
+
+* Trabalhando com visuais no PowerBi
+* Fundamentos de KPIs e métricas
+* Criação de um Dash interativo
+* Desafio de projeto
+  
+3 - Desafio de projeto  - Criando um Dashboard corporativo com integração com MySQL e Azure.
