@@ -20,3 +20,14 @@
 * Desafio de projeto
   
 3 - Desafio de projeto  - Criando um Dashboard corporativo com integração com MySQL e Azure.
+
+    Ações Realizadas
+
+* Remoção de colunas de metadados desnecessárias ao relatório
+* Renomeação de Tabelas e colunas 
+* Alteração de tipos de dados
+* Relações excluídas para dar inicio ao starschema.
+* Mescla de Colunas e Tabelas
+* Criação de StarSchema
+  
+ ![StarSchema](/Modulo%203/StarSchema.png)
